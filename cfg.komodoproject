@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="95bfad9b-4d6d-446b-8ede-41e9df94ca1d" kpf_version="5" name="gtcfg.komodoproject">
+<preference-set idref="95bfad9b-4d6d-446b-8ede-41e9df94ca1d" id="project" preftype="project">
+  <string id="userEnvironmentStartupOverride">GT_ROOT=P:/GT-ROOT
+GT_PACKAGE_ROOT=%25GT_ROOT%25/packages
+GT_DEV_ROOT=%25USERPROFILE%25/dev
+GT_CONFIG_ROOT=%25GT_ROOT%25/config
+GT_APP_ROOT=%25GT_ROOT%25/apps
+GT_CONFIG_SERVER=%25GT_CONFIG_ROOT%25/cfg-db
+</string>
+</preference-set>
+</project>
